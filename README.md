@@ -33,9 +33,9 @@ app.use(express.json()); // to parse body
 
 var cards = [
     { id: 1, name: "karim", email: "key@gmail.com", subject: "not yet" },
-    { id: 2, name: "salah", email: "salah@gmail.com", subject: "not you" },
-    { id: 3, name: "mohammed", email: "mohammed@gmail.com", subject: "not me" },
-    { id: 4, name: "ezzat", email: "ezzat@gmail.com", subject: "not him" },
+    { id: 2, name: "ko", email: "ko@gmail.com", subject: "not you" },
+    { id: 3, name: "koko", email: "koko@gmail.com", subject: "not me" },
+    { id: 4, name: "kimo", email: "kimo@gmail.com", subject: "not him" },
     { id: 5, name: "kotb", email: "kotb@gmail.com", subject: "not yours" },
 ];
 //Test card object
